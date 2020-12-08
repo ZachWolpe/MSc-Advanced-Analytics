@@ -10,6 +10,7 @@ This repo constitutes:
  - Module Files:   sub-folders containing all the material for each module
 
 -----------------------
+-----------------------
 
 
 
@@ -26,6 +27,11 @@ Machine learning from a statistical learning theory perspective, detailing the m
 - Fast Fourier Transforms & Wavelets
 - SVM: Support Vector Machines
 - Cross Validation
+
+Module content:
+https://github.com/ZachWolpe/STA5065Z
+
+-----------------------
 
 
 ## CSC4025Z Artificial Intelligence 
