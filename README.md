@@ -44,6 +44,12 @@ This module serves as an introduction to AI & Intelligent Systems. Based largely
 4. Markov Models
 
 
+Module content:
+https://github.com/ZachWolpe/CSC4025Z
+
+-----------------------
+
+
 
 ## CSC5023Z Evolutionary Computation
 
