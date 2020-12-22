@@ -7,11 +7,10 @@ A breakdown of the modules taken during my master's study, forming a phenomenal 
 This repo constitutes:
 
  - Final Projects: all the projects/assignments/research I did during these modules
- - Module Files:   sub-folders containing all the material for each module
+ - Module Files:   some descriptions link to repos containing the module content
 
------------------------
------------------------
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -31,6 +30,9 @@ Machine learning from a statistical learning theory perspective, detailing the m
 Module content:
 https://github.com/ZachWolpe/STA5065Z
 
+
+This course is highly recommended for those who wish to pursue a career in Data Science. The course serves as an overview of the increasingly important field of Machine Learning. An introduction is given to the key concepts, goals and terminology of Machine Learning. Subsequently, the lectures cover some basic theory and techniques that can serve to guide the analysis of large data sets. The implementation of some popular learning algorithms is examined. This includes Neural Networks, Support Vector Machines, Boosting and Random Forests. Throughout the course, comparisons and contrasts are made with traditional statistical practice.
+
 -----------------------
 
 
@@ -47,20 +49,48 @@ This module serves as an introduction to AI & Intelligent Systems. Based largely
 Module content:
 https://github.com/ZachWolpe/CSC4025Z
 
------------------------
 
+This course will expose students to foundational concepts and computational techniques in modern Artificial Intelligence and their theoretical underpinnings in logic, search, optimisation and mathematical statistics. Students will also learn how to select and implement these techniques to solve various real world problems. Core topics will include: problem solving, knowledge representation and reasoning, machine learning and dealing with uncertainty, with selected topics from: planning, agents and natural language processing.
+
+
+-----------------------
 
 
 ## CSC5023Z Evolutionary Computation
 
+Evolutionary computation entails the use of simulated biological evolution to solve problems that are difficult to solve using traditional computer science and engineering methods. 
+
+This course examines different Evolutionary Algorithms (EAs) and the types of problems EAs are best suited to solve. Course objectives include: gaining an understanding of various evolutionary computation techniques, identifying EAs suitable for solving different types of problems, and how to apply EAs to optimisation, machine learning, or design tasks. 
+
+The topics covered include: Introduction to Evolutionary Computation; What is an Evolutionary Algorithm; Genetic Algorithms; Evolution Strategies; Evolutionary Programming; Genetic Programming; Niching; Multi-Objective Optimisation; Co-evolution; and Working with EAs. 
+
+-----------------------
+
+
 ## STA5069Z Multivariate Statistics
+
+In this module, multivariate statistical analysis methods with associated graphical representations will be discussed. Topics to be covered include Principal Component Analysis and PCA biplots, Simple and Multiple Correspondence Analysis, Multidimensional Scaling, Cluster Analysis, Discriminant Analysis, Canonical Variate Analysis, Analysis of Distance and Biadditive Models. 
+
+-----------------------
 
 ## STA5066Z Mathematical Modeling of Infectious Diseases
 
+Infectious diseases remain a leading cause of morbidity and mortality worldwide, with HIV, tuberculosis and malaria estimated to cause 10% of all deaths each year. Mathematical models are being increasingly used to understand the transmission of infections and to evaluate the potential impact of control programmes in reducing morbidity and mortality. Applications include determining optimal control strategies against new or emergent infections, such as swine flu or Ebola, or against HIV, tuberculosis and malaria, and predicting the impact of vaccination strategies against common infections such as measles and rubella. This course will cover introductory and advanced concepts in mathematical modelling including deterministic and stochastic models, individual based models, and spatial models. Concepts covered include model building, equilibrium analysis, data fitting, sensitivity analysis and an introduction to health economics modelling.
+
+-----------------------
+
 ## STA5071Z Simulation & Optimization
+
+This module comprises two sections that are taught and examined separately: Simulation and Optimization. 
+
+Simulation uses the NetLogo software to explore the topic of agent-based simulation; a class of computational models for simulating the actions and interactions of autonomous agents with a view to assessing their effects on the system as a whole. By taking a systems analysis approach, several applications are possible in the areas of social behaviour, biology, data science and finance. 
+
+The Optimization section covers the Fundamental of Linear Optimization (Linear Programming and the Simplex Algorithm, Duality, Problem Formulation), Metaheuristics (including a selection of Simulated Annealing, Evolutionary and Genetic Algorithms, and Tabu Search), Multi-objective Optimization and Interactive Methods, Computer implementation of these approaches are in R.
+
+-----------------------
 
 ## STA5090Z Advanced Topics in Regression
 
-
+In this module, basic regression concepts shall be examined before moving on to advanced methods that allow for more flexibility in modelling. Topics to be covered include Ordinary Least Squares Regression, Subset Selection, Shrinkage Methods, Principal Component Regression and Partial Least Squares Regression, Piecewise Polynomials, Smoothing Splines, Wavelet Smoothing, Kernel Smoothing Methods, Mixture Models, Bayesian Regression Analysis and Generalised Additive Models.
 
 
