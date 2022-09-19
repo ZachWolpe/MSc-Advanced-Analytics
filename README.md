@@ -9,9 +9,8 @@ email:                zachcolinwolpe@gmail.com
 
 Capestone projects during my MSc Statistics at UCT.
 
-
-# Thesis
 ----
+# Thesis
 
 *Title: Computational Neuroscience: Neurpsychological Bayesian Reinforcement Learning*
 
@@ -21,8 +20,9 @@ Related repos:
 - [Dynocog Project](https://github.com/ZachWolpe/Dynocog) (active but incomplete)
 - [WCST model repo](https://github.com/hipercog/HBRL_WCST) (inactive)
 
-# Coursework
 ----
+# Coursework
+
 
 A breakdown of the modules taken during my master's study, forming a foundation of statistical learning theory & machine learning engineering.
 
