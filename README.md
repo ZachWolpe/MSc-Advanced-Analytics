@@ -1,8 +1,28 @@
 # MSc Advanced Analytics (Statistics) 
-### University of Cape Town (UCT) 2020
+
+### University of Cape Town (UCT) 2020-2022
+
+```
+student:              Zach Wolpe
+email:                zachcolinwolpe@gmail.com
+```
+
+Capestone projects during my MSc Statistics at UCT.
+
+### Thesis
+
+*Title: Computational Neuroscience: Neurpsychological Bayesian Reinforcement Learning*
+
+For my masters thesis I designed and implemented Bayesian RL models to model neurological activity during probabilistic learning tasks. Working under supervision in both Applied Mathematics (University of Cape Town) & Cognitive Science (University of Helsinki).
+
+Related repos:
+- [Dynocog Project](https://github.com/ZachWolpe/Dynocog) (active but incomplete)
+- [WCST model repo](https://github.com/hipercog/HBRL_WCST) (inactive)
+
+### Coursework
 
 
-A breakdown of the modules taken during my master's study, forming a phenomenal foundation of statistical learning theory & machine learning engineering.
+A breakdown of the modules taken during my master's study, forming a foundation of statistical learning theory & machine learning engineering.
 
 This repo constitutes:
 
