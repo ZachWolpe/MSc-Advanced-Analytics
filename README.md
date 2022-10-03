@@ -10,9 +10,8 @@ email:                zachcolinwolpe@gmail.com
 Capestone projects during my MSc Statistics at UCT.
 
 ----
-# Thesis
-
-*Title: Computational Neuroscience: Neurpsychological Bayesian Reinforcement Learning*
+# Thesis: Computational Neuroscience
+## Neurpsychological Bayesian Reinforcement Learning*
 
 For my masters thesis I designed and implemented Bayesian RL models to model neurological activity during probabilistic learning tasks. Working under supervision in both Applied Mathematics (University of Cape Town) & Cognitive Science (University of Helsinki).
 
