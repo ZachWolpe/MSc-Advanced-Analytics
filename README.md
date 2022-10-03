@@ -29,18 +29,9 @@ _In this thesis, we examine the statistical properties of associative learning u
 
 _We were able to successfully predict the subjects’ behaviour in this task by fitting a Bayesian Reinforcement Learning model, alluding to the mechanics of the latent biological decision generating process and executive functions. Primarily, we detail the relationship between working memory capacity and associative learning._
 
-_$Keywords$: Cognitive science, mathematical psychology, computational psychiatry, rein- forcement learning, Bayesian inference, machine learning._
+_*Keywords*: Cognitive science, mathematical psychology, computational psychiatry, rein- forcement learning, Bayesian inference, machine learning._
 
 
-``
-Cognitive science draws inspiration from a myriad of disciplines, and has become increasingly reliant on computational methods. In particular, theories of learning, operant conditioning and decision making have shown a natural synergy with statistical learning algorithms. This offers a unique opportunity to derive novel insight into the conditioning process by leveraging computational ideas. Specifically, ideas from Bayesian Inference and Reinforcement Learning.
-
-In this thesis, we examine the statistical properties of associative learning under uncertainty. We conducted a neuropsychological experiment on over 100 human subjects to measure a suite of executive functions. The primary experimental task (Card Sorting) gauges one’s ability to learn, via inference, the structure of some latent pattern that drives the decision making process.
-
-We were able to successfully predict the subjects’ behaviour in this task by fitting a Bayesian Reinforcement Learning model, alluding to the mechanics of the latent biological decision generating process and executive functions. Primarily, we detail the relationship between working memory capacity and associative learning.
-
-_$Keywords$: Cognitive science, mathematical psychology, computational psychiatry, rein- forcement learning, Bayesian inference, machine learning._
-``
 
 
 ----
