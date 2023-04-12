@@ -16,8 +16,8 @@ Capestone projects during my MSc Statistics at UCT.
 For my masters thesis I designed and implemented Bayesian RL models to model neurological activity during probabilistic learning tasks. Working under supervision in both Applied Mathematics (University of Cape Town) & Cognitive Science (University of Helsinki).
 
 Related repos:
-- [Dynocog Project](https://github.com/ZachWolpe/Dynocog) (active but incomplete)
-- [WCST model repo](https://github.com/hipercog/HBRL_WCST) (inactive)
+- [Dynocog Project](https://github.com/ZachWolpe/Dynocog) project code.
+- [WCST model repo](https://github.com/hipercog/HBRL_WCST) (inactive) paper code snippets.
 
 
 Abstract:
