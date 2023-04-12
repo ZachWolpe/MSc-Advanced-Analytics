@@ -8,7 +8,7 @@ email:                zachcolinwolpe@gmail.com
 date:                 February 2022
 ```
 
-Capestone projects during my MSc Statistics at UCT.
+Thesis & capestone projects during my MSc Statistics at UCT.
 
 ----
 # Thesis
