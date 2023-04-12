@@ -5,7 +5,7 @@
 ```
 author:               Zach Wolpe
 email:                zachcolinwolpe@gmail.com
-date:                 MSc Complete in February 2022
+date:                 February 2022
 ```
 
 Capestone projects during my MSc Statistics at UCT.
