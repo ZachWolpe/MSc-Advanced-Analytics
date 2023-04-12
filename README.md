@@ -3,8 +3,9 @@
 ### University of Cape Town (UCT) 2020-2022
 
 ```
-student:              Zach Wolpe
+author:               Zach Wolpe
 email:                zachcolinwolpe@gmail.com
+date:                 MSc Complete in February 2022
 ```
 
 Capestone projects during my MSc Statistics at UCT.
